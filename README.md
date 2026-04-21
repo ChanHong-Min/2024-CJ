@@ -7,4 +7,4 @@ CJ제일제당 생육 분석 자동화 Vision AI 모델 개발 프로젝트
 <img width="1202" height="356" alt="image" src="https://github.com/user-attachments/assets/b42a2b55-7e3c-4e74-925a-bb264fd68ed4" />
 
 ### Slides
-[CJ 제일제당 최종 발표 ppt]("https://github.com/ChanHong-Min/2024-CJ/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EB%AF%BC%EC%B0%AC%ED%99%8D_Uncertainty_3DCNN.pdf")
+[CJ 제일제당 최종 발표 ppt](./발표자료/민찬홍_Uncertainty_3DCNN.pdf)
