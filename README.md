@@ -8,3 +8,7 @@ CJ제일제당 생육 분석 자동화 Vision AI 모델 개발 프로젝트
 
 ### Slides
 [CJ 제일제당 최종 발표 ppt](./발표자료/민찬홍_Uncertainty_3DCNN.pdf)
+
+### Order
+발표자료는 (1), (2), (3), (4) 순서로 보시면 됩니다.
+
