@@ -7,10 +7,10 @@ CJ제일제당 생육 분석 자동화 Vision AI 모델 개발 프로젝트
 <img width="1202" height="356" alt="image" src="https://github.com/user-attachments/assets/b42a2b55-7e3c-4e74-925a-bb264fd68ed4" />
 
 ### Slides
-1. [CJ 제일제당 최종 발표 ppt](./발표자료/프롬프트%20엔지니어링(1).pdf)
-2. [CJ 제일제당 최종 발표 ppt](./발표자료/세그멘테이션(2).pdf)
-3. [CJ 제일제당 최종 발표 ppt](./발표자료/Uncertainty_3DCNN(3).pdf)
-4. [CJ 제일제당 최종 발표 ppt](./발표자료/생육일자%20예측%20-%20전체%20판이미지(4).pdf)
+1. [CJ 제일제당 최종 발표 ppt (1)](./발표자료/프롬프트%20엔지니어링(1).pdf)
+2. [CJ 제일제당 최종 발표 ppt (2)](./발표자료/세그멘테이션(2).pdf)
+3. [CJ 제일제당 최종 발표 ppt (3)](./발표자료/Uncertainty_3DCNN(3).pdf)
+4. [CJ 제일제당 최종 발표 ppt (4)](./발표자료/생육일자%20예측%20-%20전체%20판이미지(4).pdf)
 
 ### Order
 발표자료는 (1), (2), (3), (4) 순서로 보시면 됩니다.
